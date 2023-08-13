@@ -23,7 +23,7 @@ const password = inputPasswordElement.value;
 
     /* TODO 2 : Buat Logika perbandingan dengan kondisi:
        Jika variabel email identik dengan expectedEmail dan password identik dengan expectedPassword, panggil fungsi goToHome().
-       Jika tidak, maka panggil fungsi showPopUp().
+       Jika tidak, maka panggil fungsi showPopUp(). coba coba tambah sesuatu
      */
   if (email == expectedEmail && password  == expectedPassword){
   goToHome();
